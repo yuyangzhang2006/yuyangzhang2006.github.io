@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p>
-I am <strong>Yuyang Zhang</strong> (张雨阳), an undergraduate student majoring in <strong>mathematics</strong> at <strong>the School of the Gifted Young</strong>
+I am <strong>Yuyang Zhang</strong> (张雨阳), born in October 2006, and currently an undergraduate student majoring in <strong>mathematics</strong> at <strong>the School of the Gifted Young</strong>
 <a href="https://sgy.ustc.edu.cn/main.htm" style="color: black; text-decoration: none;"><strong>(SGY)</strong></a>, 
 <strong>the University of Science and Technology of China</strong> 
 <a href="https://www.ustc.edu.cn" style="color: black; text-decoration: none;"><strong>(USTC)</strong></a>. 
