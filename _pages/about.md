@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yuyang Zhang** (张雨阳), an undergraduate student majoring in **mathematics** at the School of the Gifted Young [(SGY)](https://sgy.ustc.edu.cn/main.htm), the University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn). My primary interests lie in **computational and mathematical biology**. 
+<p>
+I am <strong>Yuyang Zhang</strong> (张雨阳), an undergraduate student majoring in <strong>mathematics</strong> at <strong>the School of the Gifted Young</strong>
+<a href="https://sgy.ustc.edu.cn/main.htm" style="color: black; text-decoration: none;"><strong>(SGY)</strong></a>, 
+<strong>the University of Science and Technology of China</strong> 
+<a href="https://www.ustc.edu.cn" style="color: black; text-decoration: none;"><strong>(USTC)</strong></a>. 
+My primary interests lie in <strong>computational and mathematical biology</strong>.
+</p>
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
