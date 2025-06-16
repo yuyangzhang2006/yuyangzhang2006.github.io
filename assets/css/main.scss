@@ -53,3 +53,10 @@
   position: relative !important;
   transform: translate(-20px, -20px);
 }
+
+/* 隐藏亮/暗模式切换按钮 */
+.masthead__menu .dark-toggle,
+.toggle__label,
+.toggle__input {
+  display: none !important;
+}
