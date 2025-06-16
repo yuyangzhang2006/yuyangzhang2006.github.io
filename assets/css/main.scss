@@ -54,9 +54,12 @@
   transform: translate(-20px, -20px);
 }
 
-/* 隐藏亮/暗模式切换按钮 */
-.masthead__menu .dark-toggle,
+/* === 隐藏亮/暗模式按钮 === */
+button.js-dark-toggle,
+.dark-toggle,
 .toggle__label,
-.toggle__input {
+.toggle__input,
+input#dark-toggle,
+label[for="dark-toggle"] {
   display: none !important;
 }
