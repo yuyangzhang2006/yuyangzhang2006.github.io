@@ -41,3 +41,15 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* === 自定义：取消 sidebar 固定位置 === */
+.sidebar {
+  position: relative !important;
+  top: auto !important;
+}
+
+/* === 自定义：头像向左上角微调 === */
+.profile-img {
+  position: relative !important;
+  transform: translate(-10px, -10px);
+}
