@@ -232,6 +232,15 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+    _experience
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _posts
   - scope:
       path: ""
