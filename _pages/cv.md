@@ -32,31 +32,6 @@ Academic experience
   * Supervisor: Professor [David Earn](https://davidearn.mcmaster.ca)
 
 
-<!Skills
-  ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
->
-
-<!Publications
-======
-  link
->
-
-<!Talks
-======
-  
->
-  
-<!Teaching
-======
-  
->
-
 Extra curricular activities 
 ======
 * Gofted Young Qiangwei Study Tour (to Shenzhen and Hong Kong)
