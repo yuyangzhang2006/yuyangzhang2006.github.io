@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* The University of Science and Technology of China
+  * Bachelor of Science 
+    * Major in Mathematics
+    * Minor in Biology
+  * September 2023 - Present  
+  * Expected Graduation: July 2027
+    
+Academic experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* HKU Exchange Program
+  * the Univeristy of Hong Kong, Faculty of Science
+  * Semester Exchange 
+  * January 2025 - May 2025
+  * Awarded the Fung Scholarship
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* McMaster 2025 Summer Research Internship Program
+  * [MacTheobio Lab](https://mac-theobio.github.io), McMaster University
+  * June 2025 - September 2025
+  * Supervisor: Professor [David Earn](https://davidearn.mcmaster.ca)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
+
+<!Skills
+  ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+>
 
-Publications
+<!Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  link
+>
+
+<!Talks
+======
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+>
   
-Teaching
+<!Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+>
+
+Extra curricular activities 
 ======
-* Currently signed in to 43 different slack teams
+* Gofted Young Qiangwei Study Tour (to Shenzhen and Hong Kong)
+  * July 2024 - August 2024
+  * Visited enterprises such as Mindary
+  *  visited Hong Kong University of Science and Technology (HKUST) and The Chinese Univeristy of Hong Kong (CUHK) 
