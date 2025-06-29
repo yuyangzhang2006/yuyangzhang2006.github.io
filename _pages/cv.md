@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * The University of Science and Technology of China
+  * The School of the Gifted Young 
   * Bachelor of Science 
     * Major in Mathematics
     * Minor in Biology
@@ -26,7 +27,7 @@ Academic experience
   * January 2025 - May 2025
   * Awarded the Fung Scholarship
 
-* McMaster 2025 Summer Research Internship Program
+* McMaster Summer Research Internship Program
   * [MacTheobio Lab](https://mac-theobio.github.io), McMaster University
   * June 2025 - September 2025
   * Supervisor: Professor [David Earn](https://davidearn.mcmaster.ca)
@@ -34,7 +35,7 @@ Academic experience
 
 Extra curricular activities 
 ======
-* Gofted Young Qiangwei Study Tour (to Shenzhen and Hong Kong)
+* Gifted Young Qiangwei Study Tour (to Shenzhen and Hong Kong)
   * July 2024 - August 2024
   * Visited enterprises such as Mindary
   *  visited Hong Kong University of Science and Technology (HKUST) and The Chinese Univeristy of Hong Kong (CUHK) 
