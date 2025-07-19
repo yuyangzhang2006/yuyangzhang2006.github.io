@@ -2,7 +2,7 @@
 title: "Linear Algebra B1"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /https://github.com/yuyangzhang2006/USTC_LAB1_25A
+permalink: /25A_LAB1
 venue: "the University of Science and Technology of China, Department of Mathematics"
 date: September 2025 - Juanuary 2026
 location: "Hefei, Anhui, China"
