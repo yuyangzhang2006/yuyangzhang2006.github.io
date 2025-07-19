@@ -40,6 +40,6 @@ Extra curricular activities
   * Visited enterprises such as Mindary in Shenzhen
   * Visited The Hong Kong University of Science and Technology (HKUST) and The Chinese Univeristy of Hong Kong (CUHK)
 
-* President of USTC Psychology Association
+* President of USTC Psychology Association (UPA)
   * June 2025 - Present
-  * Website coming soon
+  * See our [Github repository](https://github.com/yuyangzhang2006/USTC_Psychology_Association)  
